@@ -1,7 +1,5 @@
 # Odds Math Fetcher
 
-q
-
 ## Requirements
 
 * Docker
